@@ -1,2 +1,3 @@
 # neoG-mark8-Emoji
-Created with CodeSandbox
+
+Get to know emoji meanings with the buffering
